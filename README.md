@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Haider-sama</h1>
 <h3 align="center">An engineering student and a front-end developer.</h3>
 
-- 🌱 I’m currently learning **React, MySQL, MongoDB**
+- 🌱 I’m currently learning **NodeJS, MySQL, MongoDB**
 
 - 📫 How to reach me **vegeta.khan2000@gmail.com**
 
-- ⚡ Fun fact **“The only reason a warrior is alive is to fight, and the only reason a warrior fights is to win” ― Miyamoto Musashi, A Book of Five Rings: The Classic Guide to Strategy**
+- ⚡ Fun fact **“The only reason a warrior is alive is to fight, and the only reason a warrior fights is to win”**
+- **― Miyamoto Musashi, A Book of Five Rings: The Classic Guide to Strategy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/haider-sama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="haider-sama" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/haider ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="haider ali" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCa0eMbQadzDa9fdyxgPjPHg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="haider-sama" height="30" width="40" /></a>
+<a href="https://leetcode.com/haider-sama/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="haider ali" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
