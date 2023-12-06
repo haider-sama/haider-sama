@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haider-sama</h1>
 <h3 align="center">An engineering student and a front-end developer.</h3>
 
-- 🌱 I’m currently learning **NodeJS, MySQL, MongoDB**
+- 🌱 I’m currently learning **Problem solving :(**
 
 - 📫 How to reach me **vegeta.khan2000@gmail.com**
 
