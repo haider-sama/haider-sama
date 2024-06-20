@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Haider-sama</h1>
-<h3 align="center">An engineering student and a front-end developer.</h3>
+<h1 align="center">Hi 👋, This is Haider</h1>
+<h3 align="center">An engineering student and a react developer.</h3>
 
 - 📫 How to reach me **vegeta.khan2000@gmail.com**
 - My Portfolio: **https://haider-sama.github.io/haidersama.github.io/**
