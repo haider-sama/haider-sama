@@ -9,7 +9,7 @@
 
 ## 🛠 Tools & Technologies  
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,html,css,react,typescript,node,next,vscode,linux" alt="Skills" style="max-width: 100%;">
+<img src="https://skillicons.dev/icons?i=js,html,css,react,typescript,nodejs,next,vscode,linux" alt="Skills" style="max-width: 100%;">
 </div>
 
 ## Github Stats
