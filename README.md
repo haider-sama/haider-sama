@@ -9,12 +9,11 @@
 
 ## 🛠 Tools & Technologies  
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,html,css,wordpress,python,php,mysql,vscode,blender,git,linux,docker" alt="Skills" style="max-width: 100%;">
+<img src="https://skillicons.dev/icons?i=js,html,css,react,typescript,node,next,vscode,linux" alt="Skills" style="max-width: 100%;">
 </div>
 
 ## Github Stats
 <div style="display: flex; flex-wrap: nowrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=haider-sama&show_icons=true&theme=one_dark_pro&show=prs_merged_percentage&hide_border=true" style="width: 47%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haider-sama&hide_border=true&layout=compact&theme=one_dark_pro" style="width: 40%" />
 </div>
 
