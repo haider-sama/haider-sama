@@ -1,21 +1,18 @@
-<h1 align="center">Hi 👋, This is Haider</h1>
-<h3 align="center">An engineering student and a React developer.</h3>
+<h4 align="center">Hi 👋, This is Haider</h4>
+<h4 align="center">An engineering student and a Web developer.</h4>
 
 - 📫 How to reach me **vegeta.khan2000@gmail.com**
-- My Portfolio:
-- Outdated: **https://haider-sama.github.io/haidersama.github.io/**
-- Updated: **https://haider-sama.github.io/**
 
 - ⚡ Fun fact **To know a thousand things, know one better.**
 - **― Miyamoto Musashi**
 
 - I also do source-engine mapping: **https://gamebanana.com/members/2361251**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uca0embqadzda9fdyxgpjphg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uca0embqadzda9fdyxgpjphg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/haider-sama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haider-sama" height="30" width="40" /></a>
-</p>
+## 🛠 Tools & Technologies  
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,html,css,wordpress,python,php,mysql,vscode,blender,git,linux,docker" alt="Skills" style="max-width: 100%;">
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://haider-sama.github.io/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haider-sama/)
