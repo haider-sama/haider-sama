@@ -1,5 +1,5 @@
-<h4 align="center">Hi 👋, This is Haider</h4>
-<h4 align="center">An engineering student and a Web developer.</h4>
+<h2 align="center">Hi 👋, This is Haider</h3>
+<h3 align="center">An engineering student and a Web developer.</h3>
 
 
 - ⚡ Fun fact **To know a thousand things, know one better.**
