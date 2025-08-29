@@ -1,11 +1,11 @@
 <h2 align="center">Hi 👋, This is Haider</h3>
-<h3 align="center">An engineering student and a Web developer.</h3>
+<h3 align="center">Mechatronics Engineer and Developer.</h3>
 
 
-- ⚡ Fun fact **To know a thousand things, know one better.**
-- **― Miyamoto Musashi**
+- ⚡ Fun fact **It's over 9000!!!!**
+- **― Vegeta **
 
-- I also do source-engine mapping: **https://gamebanana.com/members/2361251**
+- I also used to do source-engine mapping: **https://gamebanana.com/members/2361251**
 
 ## 🛠 Tools & Technologies  
 <div align="center">
