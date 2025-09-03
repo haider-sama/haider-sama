@@ -15,6 +15,6 @@ It's always advised and I've advised myself to never quit. No matter the odds. B
 
 <br />
 
-**[Website](https://haider-sama.github.io)**  
-**[GameBanana](https://gamebanana.com/members/2361251)**  
+**[Website]** https://haider-sama.github.io
+**[GameBanana]** https://gamebanana.com/members/2361251  
 **[Contact]** vegeta.khan2000@gmail.com  
