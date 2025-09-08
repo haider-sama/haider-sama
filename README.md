@@ -3,7 +3,7 @@ Hello. This is Haider. A mechatronics student and a web-developer. You have been
 
 <br />
 
-Some of my hobbies include programming things which I like, to build, to see them in shape. I've used to do source-engine mapping in the past. Along, with a few of my hobby projects that I'm working on. My first anime is Dragon-Ball-Z which I grew up watching, made me learn a lot of things that I couldn't have learnt without it. Some of the major scenes in Z are top-notch. Enough to push a man to shatter limits and shackles of doubt that would seperate a legend from a trespasser in this vastness of space that we live in. Positive enough to say that I'm a follower of it and know inside-out of the series. Whether, it's Z or GT. My favourites techniques in the series are Kaio-ken(界王拳), Dragon-First(龍拳), Ultra Instinct (身勝手の極意 (Migatte no Gokui)), Bukūjutsu (舞空術). My other hobbies including sketching, primarily dragon ball characters, I also practive martial arts, including boxing, muay thai and wrestling. 
+Some of my hobbies include programming things which I like, to build, to see them in shape. I've used to do source-engine mapping in the past. Along, with a few of my hobby projects that I'm working on. My first anime is Dragon-Ball-Z which I grew up watching, made me learn a lot of things that I couldn't have learnt without it. Some of the major scenes in Z are top-notch. Enough to push a man to shatter limits and shackles of doubt that would seperate a legend from a trespasser in this vastness of space that we live in. Positive enough to say that I'm a follower of it and know inside-out of the series. Whether, it's Z or GT. My favourites techniques in the series are Kaio-ken(界王拳), Dragon-First(龍拳), Ultra Instinct (身勝手の極意 (Migatte no Gokui)), Bukūjutsu (舞空術). My other hobbies including sketching, primarily dragon ball characters, I also practice martial arts, including boxing, muay thai and wrestling. 
 
 <br />
 
@@ -11,7 +11,7 @@ I've a lot of interesting projects and goals that I'll build and complete in the
 
 <br />
 
-It's always advised and I've advised myself to never quit. No matter the odds. Because success comes through fruition finally. If we push with absolute relentlessness.
+It's always believed and I've advised myself to never quit. No matter the odds. Because success comes through fruition finally. If we push with absolute relentlessness.
 
 <br />
 
@@ -20,3 +20,6 @@ It's always advised and I've advised myself to never quit. No matter the odds. B
 **[GameBanana]** https://gamebanana.com/members/2361251
 <br />
 **[Contact]** vegeta.khan2000@gmail.com
+
+<br />
+## >>
