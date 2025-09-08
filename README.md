@@ -20,5 +20,3 @@ It's always believed and I've advised myself to never quit. No matter the odds. 
 **[GameBanana]** https://gamebanana.com/members/2361251
 <br />
 **[Contact]** vegeta.khan2000@gmail.com
-
-## >>
