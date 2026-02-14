@@ -1,5 +1,5 @@
 ## <<
-Hello. This is Haider. A mechatronics student and a web-developer. You have been roaming around lately and have stumbled upon the domain which is known as my github profile. Rest here, fellow warrior. Make a cup of tea and relax and enjoy the surrounding around you. 
+Hello. This is Haider. A mechatronics engineer. You have been roaming around lately and have stumbled upon the domain which is known as my github profile. Rest here, fellow warrior. Make a cup of tea and relax and enjoy the surrounding around you. 
 
 <br />
 
