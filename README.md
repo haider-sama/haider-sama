@@ -1,7 +1,7 @@
 ## <<
 
 <div align="center">
-  <img src="/img/goku.gif" alt="Goku" width="150">
+  <img src="/img/goku.gif" alt="Goku" width="250">
 </div>
 
 <br/>
