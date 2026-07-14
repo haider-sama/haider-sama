@@ -1,18 +1,21 @@
-## <<
-
 <div align="center">
-  <img src="/img/goku.gif" alt="Goku" width="350">
+
+<img src="./goku_25.gif" alt="Goku" width="340" />
+
+<br><br>
+
+# Hi, I'm Haider 👋
+
+I make games and websites.
+
+<br>
+
+<a href="https://haider-sama.github.io">
+  <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+</a>
+
+<a href="mailto:vegeta.khan2000@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
 </div>
-
-<br/>
-
-
-<div align="center" style="position: relative; width: 300px; height: 150px; margin: auto;">
-  <img src="/img/nyan_cat.gif" alt="Nyan!" width="150" style="position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); z-index: 1;">
-  <img src="/img/goku_fly.gif" alt="Goku Flying" width="150" style="position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); z-index: 2;">
-</div>
-
-<br/>
-
-**[Website]** https://haider-sama.github.io  
-**[Contact]** vegeta.khan2000@gmail.com
