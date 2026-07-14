@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="./goku_25.gif" alt="Goku" width="340" />
+<div align="center">
+  <picture>
+    <img src="./goku_25.gif" alt="Goku" width="220">
+  </picture>
+</div>
 
 <br><br>
 
