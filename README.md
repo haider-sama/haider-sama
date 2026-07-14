@@ -2,7 +2,7 @@
 
 <div align="center">
   <picture>
-    <img src="./goku_25.gif" alt="Goku" width="120">
+    <img src="./goku_25.gif" alt="Goku" width="160">
   </picture>
 </div>
 
