@@ -10,7 +10,7 @@ I make games and websites.
 
 <br>
 
-<a href="https://haider-sama.github.io">
+<a href="https://haider-web.vercel.app">
   <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
 </a>
 
